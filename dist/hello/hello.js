@@ -59,7 +59,7 @@ function (_Component) {
     value: function render() {
       return _react.default.createElement("div", {
         className: "hello"
-      }, "The \"Hello Component Library\" welcomes you!");
+      }, "The \"Hello Component Library\" welcomes Joanna and Aylin!");
     }
   }]);
 
